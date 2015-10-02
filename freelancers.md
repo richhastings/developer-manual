@@ -8,8 +8,8 @@ Dennis Parker (ACCA)
 Mikey Holland (ACCA)  
 Jason McLauglin (ACCA)  
 Joe Langford (ACCA)  
-John Bicknell (SDS, RI updates)
-Sonny Fraikue (TAME/TANAHE, AS)
+John Bicknell (SDS, RI updates)  
+Sonny Fraikue (TAME/TANAHE, AS)  
 Tom Vong (ACCA)  
 
 ### Bad freelancers
