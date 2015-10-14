@@ -18,7 +18,7 @@ You will need to install git for some of the following processes, this is availa
 >####WINDOWS USERS
 >The next stage requires Node.js to be installed, as it doesn't come as standard with Windows. If you're not sure whether it's installed, type `node -v` onto the command line. If you get a version number back, this confirms Node.js is installed. A good guide can be found [here](http://blog.teamtreehouse.com/install-node-js-npm-windows).
 >
->Python will also need to be installed as this doesn't come as standard. If you're not sure whether it's installed, type `pythonquit()` onto the command line. If you get an error back, this confirms python is **not** installed. This can be downloaded from [here](http://www.python.org/downloads/). **You must download version 2.7.10, as 3.5 will not work**. You **must** check the box which reads `add python.exe to PATH`. This allows you to run python commands from the command line.
+>Python will also need to be installed as this doesn't come as standard. If you're not sure whether it's installed, type `python` onto the command line. If you get an error back, this confirms python is **not** installed. This can be downloaded from [here](http://www.python.org/downloads/). **You must download version 2.7.10, as 3.5 will not work**. You **must** check the box which reads `add python.exe to PATH`. This allows you to run python commands from the command line.
 >
 
 In order to install/update the plugins required to process all files, the following commands need to be run:
